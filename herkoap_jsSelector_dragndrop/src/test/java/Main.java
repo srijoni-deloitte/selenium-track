@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class Main {
     static String driverKey = "webdriver.chrome.driver";
-    static String driverPath =  "/Users/sanyalsubhajit39/Softwares/chromedriver2"; //"C:\\Users\\srijochakraborty\\Documents\\chromedriver.exe";
+    static String driverPath =  "C:\\Users\\srijochakraborty\\Documents\\chromedriver.exe";
     static String url = "http://the-internet.herokuapp.com";
     static WebDriver driver;
 
